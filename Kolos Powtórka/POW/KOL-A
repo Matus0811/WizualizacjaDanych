@@ -35,7 +35,7 @@ import seaborn as sb
 # plt.ylabel('Wykres funkcji')
 # plt.legend(loc='upper left')
 
-# plt.savefig('andrzej_patalon_zadanie2.png')
+# plt.savefig('nazwapliku.png')
 
 # plt.show()
 
